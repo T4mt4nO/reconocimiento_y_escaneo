@@ -1,1 +1,1 @@
-# reconocimiento-escaneo
+# reconocimiento y escaneo
